@@ -221,8 +221,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 34731147}
-        m_TargetAssemblyTypeName: StartButtonBehaviour, Assembly-CSharp
-        m_MethodName: OnStartButtonPressed
+        m_TargetAssemblyTypeName: SceneButtonBehaviour, Assembly-CSharp
+        m_MethodName: OnBackButtonPressed
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -697,8 +697,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1928005306}
-        m_TargetAssemblyTypeName: StartButtonBehaviour, Assembly-CSharp
-        m_MethodName: OnStartButtonPressed
+        m_TargetAssemblyTypeName: SceneButtonBehaviour, Assembly-CSharp
+        m_MethodName: OnNextButtonPressed
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
